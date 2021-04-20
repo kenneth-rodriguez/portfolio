@@ -1,2 +1,0 @@
-E:\VISUAL STUDIO STUFF\Project3\Release\Project3.exe
-E:\VISUAL STUDIO STUFF\Grocery Tracker\Release\GroceryTracker.exe

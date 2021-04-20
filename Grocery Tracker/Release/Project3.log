@@ -1,8 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Project3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Main.cpp
-E:\VISUAL STUDIO STUFF\Grocery Tracker\Main.cpp(278,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Project3.vcxproj -> E:\VISUAL STUDIO STUFF\Grocery Tracker\Release\GroceryTracker.exe

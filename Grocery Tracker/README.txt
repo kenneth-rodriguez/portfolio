@@ -20,7 +20,7 @@ begins and which data values are higher than others.
 
 
 - Where could you enhance your code?
-The most obvious thing to me would be moving most of the data processing tasks from the user input
+The most obvious thing to me would be moving most of the data processing tasks from the user menu
 switch statement to its own class; this would improve readability and make it easier to modify those
 chunks of code in the event that the application needed to be scaled. This could also provide more
 opportunities for encapsulation, improving data security.

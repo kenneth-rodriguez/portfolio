@@ -1,0 +1,36 @@
+Ken Rodriguez
+June 27, 2021
+Professor Morrison
+Software Development Lifecycle
+
+  The following questions have been included to contextualize what I have learned in the
+course "Software Development Lifecycle." This course focused on Agile-Scrum development
+structures and how to most effectively apply them in a development context.
+
+- How do I interpret user needs and implement them into a program? How does creating
+"user stories" help with this?
+
+  After a team's Product Owner meets with stakeholders or a focus group, user stories are
+formed based on what features are deemed most desirable by those stakeholders or users.
+After the product's requirements and most useful features have been determined, user
+stories provide a way for the Scrum Team to plan sprint goals most effectively. Utilizing
+these user stories and prioritizing necessary (or desirable) features can help the team
+release the product faster, providing greater value and (ideally) capitalizing on a
+possible market niche.
+
+- How do I approach developing programs? What agile processes do I hope to incorporate
+into my future development work?
+
+  In my perspective, learning about Agile methodologies has stressed the importance of
+object-oriented programming. In the event that the product vision were to shift, code
+written with principles such as encapsulation or polymorphism during a short sprint is
+very likely going to be much easier to adjust than complex code with a lot of 
+interconnectivity over a longer period of time. The importance of documenting specific
+changes and details has also become apparent for the purposes of complete records and
+easy testing.
+
+- What does it mean to be a good team member in software development?
+
+  To my understanding, in addition to being polite and willing to cooperate,
+the ideal developer is also a good communicator. With good communication, any problems a 
+team member may face can become a team effort. 

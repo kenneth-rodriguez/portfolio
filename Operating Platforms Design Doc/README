@@ -1,0 +1,37 @@
+- Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The Gaming Room was a software developer that had commissioned our firm to provide design documents and code that would serve as
+the foundation for a web-based port of an existing video game application called "Draw It or Lose It," a team-based pictionary-esque
+guessing game. As part of the port, the client required an application that utilized an existing library of images, rules and assets,
+an application that was compatible with web browsers on a variety of devices, and it needed to support multiple players in each game.
+
+- What did you do particularly well in developing this documentation?
+I believe my recommendations were conducive to the successful development of the Draw It or Lose It application.
+
+- What about the process of working through a design document did you find helpful when developing the code?
+Like any building, movie, or cake, writing a program tends to be much easier if you know exactly what the end product is and what
+aspects need to be focused on, especially in a fast-paced commercial environment that wants the minimum viable product delivered as quickly as
+possible. I appreciate having a document nearby that lets me know what needs to be done and what I need to be mindful of while I'm doing it.
+
+- If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I feel the operating platform could certainly be expanded to contain even more pertinent information, specifically over IDE and language
+choice. While the platform-specific "bases" are covered (Windows is familiar but prone to breaking, macOS is expensive but has a great
+hardware/software ecosystem, Linux is free but hard to learn), there is certainly room to throw in the things they have in common, like
+Java and HTML with a plethora of IDEs and other tools to work with those languages.
+
+- How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+When I was working management in retail, it was important to keep product as accessible as possible, and even more than that. Designing
+this document, the client had made it clear that a web-based application needed to be accessible as a web application. Given these two
+facts, it became clear to me that the best way to help the client sell their product was to prioritize compatibility on multiple devices
+as part of designing this application. By ensuring that this product works on as many devices as possible, the user then has that many
+opportunities to play Draw It or Lose It with their friends in the most convenient way possible.
+
+- How did you approach designing the software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+To design the Draw It or Lose It application, we first needed to think about what the product was and how it would work. After determining
+that, we created a blueprint (in the form of a UML diagram); from there, it was a matter of experimentation and research. What operating
+system would best handle this application? What external libraries could we use to streamline these processes and improve security?
+Things of that ilk.
+
+Moving forward, I think that experimentation is a big part of designing better software. By familiarizing myself with a wider variety
+of tools and libraries, I can then contribute those tools to an application being designed. When working on Draw It or Lose It, for
+example, I learned a lot about account authorization through our use of the Dropwizard framework and could contribute such knowledge
+to the next program I work on. Neat stuff.

@@ -1,0 +1,27 @@
+E:\VISUAL STUDIO STUFF\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.exe
+E:\VISUAL STUDIO STUFF\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.deps.json
+E:\VISUAL STUDIO STUFF\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.json
+E:\VISUAL STUDIO STUFF\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.dev.json
+E:\VISUAL STUDIO STUFF\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.dll
+E:\VISUAL STUDIO STUFF\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.pdb
+E:\VISUAL STUDIO STUFF\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.csprojAssemblyReference.cache
+E:\VISUAL STUDIO STUFF\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfoInputs.cache
+E:\VISUAL STUDIO STUFF\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfo.cs
+E:\VISUAL STUDIO STUFF\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO STUFF\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.dll
+E:\VISUAL STUDIO STUFF\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.pdb
+E:\VISUAL STUDIO STUFF\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.genruntimeconfig.cache
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.exe
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.deps.json
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.json
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.runtimeconfig.dev.json
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.dll
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\bin\Debug\netcoreapp3.1\StringReverse.pdb
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfoInputs.cache
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.AssemblyInfo.cs
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.dll
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.pdb
+E:\VISUAL STUDIO STUFF\Small Projects\StringReverse\obj\Debug\netcoreapp3.1\StringReverse.genruntimeconfig.cache

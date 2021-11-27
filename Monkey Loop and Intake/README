@@ -1,0 +1,3 @@
+A short data collection program written in Java with the purpose of collecting user input relating to fictional service animals. 
+User input would be checked and then trigger a variety of logic branches, producing a desired outcome. 
+The project was an exercise in utilizing arrays, error checking, and studying the best coding practices.

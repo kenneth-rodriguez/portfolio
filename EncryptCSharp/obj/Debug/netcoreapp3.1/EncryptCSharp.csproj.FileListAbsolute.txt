@@ -1,0 +1,14 @@
+E:\VISUAL STUDIO STUFF\EncryptCSharp\bin\Debug\netcoreapp3.1\EncryptCSharp.exe
+E:\VISUAL STUDIO STUFF\EncryptCSharp\bin\Debug\netcoreapp3.1\EncryptCSharp.deps.json
+E:\VISUAL STUDIO STUFF\EncryptCSharp\bin\Debug\netcoreapp3.1\EncryptCSharp.runtimeconfig.json
+E:\VISUAL STUDIO STUFF\EncryptCSharp\bin\Debug\netcoreapp3.1\EncryptCSharp.runtimeconfig.dev.json
+E:\VISUAL STUDIO STUFF\EncryptCSharp\bin\Debug\netcoreapp3.1\EncryptCSharp.dll
+E:\VISUAL STUDIO STUFF\EncryptCSharp\bin\Debug\netcoreapp3.1\EncryptCSharp.pdb
+E:\VISUAL STUDIO STUFF\EncryptCSharp\obj\Debug\netcoreapp3.1\EncryptCSharp.AssemblyInfoInputs.cache
+E:\VISUAL STUDIO STUFF\EncryptCSharp\obj\Debug\netcoreapp3.1\EncryptCSharp.AssemblyInfo.cs
+E:\VISUAL STUDIO STUFF\EncryptCSharp\obj\Debug\netcoreapp3.1\EncryptCSharp.csproj.CoreCompileInputs.cache
+E:\VISUAL STUDIO STUFF\EncryptCSharp\obj\Debug\netcoreapp3.1\EncryptCSharp.dll
+E:\VISUAL STUDIO STUFF\EncryptCSharp\obj\Debug\netcoreapp3.1\EncryptCSharp.pdb
+E:\VISUAL STUDIO STUFF\EncryptCSharp\obj\Debug\netcoreapp3.1\EncryptCSharp.genruntimeconfig.cache
+E:\VISUAL STUDIO STUFF\EncryptCSharp\obj\Debug\netcoreapp3.1\EncryptCSharp.csproj.AssemblyReference.cache
+E:\VISUAL STUDIO STUFF\EncryptCSharp\obj\Debug\netcoreapp3.1\EncryptCSharp.GeneratedMSBuildEditorConfig.editorconfig

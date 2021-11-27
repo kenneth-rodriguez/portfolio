@@ -1,0 +1,13 @@
+This is one of my favorite projects. For an assignment for the Southern New
+Hampshire University course, MAT-230: Discrete Mathematics, we had to study
+an RSA encryption algorithm, write a discussion post on what we had learned
+and enjoyed from that algorithm, then encrypt our discussion posts using the
+encryption we learned. Rather than crunch the math over and over, I opted to 
+instead write this script.
+
+This script will allow the user to encrypt and decrypt messages with the
+appropriate RSA encryption method, then print the encrypted or decrypted
+messages. Of course, given how RSA encryption works, this only works with
+that specific discussion post and the encryption key is not randomly generated,
+but it was a great exercise and got me particularly excited for math. That
+was a surprise.

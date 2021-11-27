@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CSVparser.cpp
+  LinkedList.cpp
+C:\Users\Mr_N_\Desktop\PORTFOLIO\Examples\3-2 Linked List\LinkedList.cpp(284,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Mr_N_\Desktop\PORTFOLIO\Examples\3-2 Linked List\LinkedList.cpp(220): warning C4715: 'LinkedList::Search': not all control paths return a value
+  Project1.vcxproj -> C:\Users\Mr_N_\Desktop\PORTFOLIO\Examples\3-2 Linked List\Debug\3-2 Linked List.exe

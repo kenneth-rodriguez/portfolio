@@ -1,0 +1,41 @@
+Ken Rodriguez
+Professor Washington 
+CS-255: System Analysis and Design
+December 17, 2021
+
+This document will serve as a course reflection and a brief explanation of what the course curriculum covered.
+
+- Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The client, DriverPass, was an online service that would provide educational materials such as up-to-the-minute
+driving information and licensing requirements from the DMV, practice licensing tests, and scheduling driving
+practice appointments. This project served the purpose of laying the groundwork necessary for the DriverPass 
+website's structure, establishing different types of user accounts, account functions, requirements, and things of
+that ilk.
+
+- What did you do particularly well?
+I believe this project demonstrates my grasp of object-oriented programming principles in a practical context.
+Classes inherit attributes from superclasses, abstraction and encapsulation are utilized to preserve each
+diagram's readability.
+
+- If you could choose one part of your work on these documents to revise, what would you pick? How would you
+improve it?
+I feel that my UML class diagram could be expanded to include more types of user account to simplify the system's
+security permission distribution. For example, rather than apply security permissions to different admin accounts,
+the system could use different user accounts. This could save the client time when creating user accounts and
+further streamline the system.
+
+- How did you interpret the user's needs and implement them into your system design? Why is it so important to
+consider the user's needs when designing?
+I tried to implement system functionality as the customer requested it. When the client requested a system that 
+would allow students to take online courses, I implemented classes for student-type users and a class object with 
+the appropriate variables. Effectively, whatever the client requests is implemented. Given that the system will
+be used primarily by the client for their own needs, it's imperative that the system is designed to the customer's
+specifications.
+
+- How do you approach designing software? What techniques or strategies would you use in the future to analyze
+and design a system?
+I think that UML diagrams serve the role of establishing software requirements and getting a feel for how the
+program would work before writing a single line of code. As such, I believe that these diagrams should be used
+in tandem with client requirements to create what is effectively a system blueprint. Of course, creating various
+UML diagrams should be a group effort with a good amount of trial and error; different team members may offer
+different perspectives on development and may be able to streamline existing work.

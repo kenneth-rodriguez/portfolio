@@ -1,0 +1,3 @@
+For this first project, we wrote a simple Python script for determining the cost of a hypothetical rental car.
+The console prompts user input, collects information regarding the period the user is renting the vehicle, collecting mileage,
+and calculating the total cost for the vehicle rental. Simple, and it does its job. 

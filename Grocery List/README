@@ -1,0 +1,6 @@
+The second project for my introduction to scripting class was focused on scripting a short grocery list in Python as an exercise in dictionaries and lists.
+
+After initializing the an empty list and dictionary, the script prompts the user through the console for an item's name, quantity, and price.
+User input then fills those values and saves them to a copy of that dictionary in a list that stores each grocery item. The console then prompts the user to
+continue or quit; upon an input of anything but "Q," the script is run in a loop. If the user inputs "Q," the script then collects all of the dictionaries in
+the original list, outputs item's name, quantity, and cost, and then prints the total cost for all of the items.

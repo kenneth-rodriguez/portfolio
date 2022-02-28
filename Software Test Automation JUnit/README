@@ -1,0 +1,26 @@
+Ken Rodriguez
+Professor Joseph Rangitsch
+Software Test Automation & QA
+February 27, 2022
+
+- How can I ensure that my code, program, or software is functional and secure?
+To ensure software functionality and security, it's important to test early and test often. By checking
+for issues early in development and solving problems before they've had a chance to grow and obscure
+themselves, developers ensure that software functions as intended, as quickly as possible, and at a low 
+cost.
+
+- How do I interpret user needs and incorporate them into a program?
+To interpret user needs, it's important to consider the context of the final product. By defining what
+the application should look like and do, it becomes easier to change how each feature is implemented
+based on user demand; this establishes user requirements. After requirements are definted, they can be
+more specifically refined with whiteboarding and diagramming, then implemented into software to work
+towards the complete program.
+
+- How do I approach designing software?
+Designing software begins with the program's intended purpose. The type of application should affect
+the application's flow between menus; for a bank program, a login page should be necessary and a user
+database could be used to maintain that user's account information, but a game application might not
+have either of these features. After establishing purpose, UML diagramming and whiteboarding can be
+used to build the project's structure, then UI design to reflect that structure, then finally setting
+up the relationships between UI, classes, and variables before launching the project. Software design
+should be deliberate and incremental, with multiple tests taking place in each stage to ensure stability.

@@ -1,0 +1,44 @@
+Ken Rodriguez
+Professor Jerome DiMarzio
+CS-360 Mobile Architect and Programming
+February 27, 2022
+
+- Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+For this application, the main purpose was to provide users with an inventory management application that allowed users to create
+custom inventory items, modify the quantity of those inventory items, and delete those items as needed. To further build on the
+app's functionality, it supports user account creation and SMS notifications that are sent whenever an item's inventory is
+depleted.
+
+- What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs 
+- keep users in mind? Why were your designs successful?
+When the application is opened, it brings users to a login page that allows users to either log in with existing credentials or
+register new credentials as needed. After successfully logging in or registering, the user is brought to the "main" page, the
+inventory management screen. This features a scrolling cardview displaying each item's name and quantity along with buttons to
+modify that item's quantity or delete it outright. In the top menu of this page, there are buttons to add new items or access
+the page's settings. To ensure the UI is easy to use and accessible to users, labels support Android screen reading, aspects
+such as inventory item cards are distinct from their backgrounds with separate but large elements, and UI elements offer
+ergonomics whenever possible. Throughout testing, it was easy to access and modify the inventory database as needed.
+
+- How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+When coding this application, everything began with developing requirements based on user needs. From there, a rough user interface was
+created to reflect these requirements and establish a framework for functionality. Finally, function development began. As development
+continued and needs changed, the UI changed to reflect these changes, multiple approaches to storing global variables were tested and
+refactored. After constant testing and debugging, the application was functional and met user needs.
+
+- How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+After a few lines of code were written, the application was built and tested. Error reports were parsed
+constantly and dealt with in a short timespan. By constantly dealing with bugs as development continued, the need to revisit problems
+later in development was greatly reduced and the completed project was more stable as a result.
+
+- Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+Innovation was required when enabling permissions and storing the user's phone number. Initially, the approach was to use a phone
+number database and a single variable in memory to determine if a user had the proper permissions to send SMS notifications.
+Memory storage proved to be inefficient and less than desirable for a user and the phone number database was producing erratic
+results when called to send an SMS message. As such, an SharedPreferences file was created to persistently handle both; while
+implementation and research were challenging, this proved to be the right solution for the current implementation of this 
+functionality.
+
+- In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+For this aspect, I believe my utilization of SQLite demonstrates my proficiency best. A SQLite database is used to store the
+user's customized inventory objects and produces a way for the user to add or modify that database's values. This process
+is efficient, scalable, and easy to read and modify in the way I implemented this technology.

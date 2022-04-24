@@ -1,0 +1,36 @@
+Ken Rodriguez
+Professor Kurt Diesch
+CS-330: Computer Graphics and Visualization
+April 24, 2022
+
+Reflection
+
+- How do I approach designing software?
+After determining a concept, I feel the next part of software design is determining the project's structure
+and the components necessary to achieving these project goals. This approach usually involves UML diagramming;
+however, I feel that this step into computational graphics has opened a proverbial door in the form of
+visual reference as opposed to strictly class-based diagrams. Combining these references can provide context
+for both the technical and artistic side of the programming process; something I'll definitely keep in mind
+for other graphical projects moving forward!
+
+- How do I approach developing programs?
+Working through this course, I felt that having a structure can provide a strong scaffolding when paired with
+an small, piece by piece, iterative development process, but flexibility is equally important if not more so.
+One of the issues I had early in development was implementing a solution to allow for object-oriented program
+design. Whenever I would attempt to add a second class to the project, the STB image loading library would
+throw an error given that the library only supports a single implementation in a project. At this point, it
+was clear that a class-based system likely wouldn't play nice with OpenGL, so a smaller method-based system
+of rendering was adopted at no cost to performance. Given that features were added in week-long sprints, this
+fix wasn't particularly time-consuming and was implemented early on, further reducing potential time loss. 
+While there's a lot of room for improvement in my program's structure, I feel that the approach taken was
+sufficient and helpful to produce a finished product.
+
+- How can computer science help me in reaching my goals?
+While I feel that the field of low-level computer graphics is better suited to more qualified people, it's
+undeniable that the concepts regarding project structure will be useful for considering moving forward. I 
+suppose I also shouldn't rule out a career in this field given the opportunities in careers involving simulation
+or animation; nothing is impossible! As a takeaway, I feel the most useful skill I obtained in this course is
+a better understanding of linear algebra. Applying changes to a matrix of problems to find solutions seems to
+offer a lot of potential. I suppose what I'm trying to say is that while I'm not entirely sure how I can apply
+what I've learned, but it's clear that there's a lot of potential and I'm excited to see how I can further refine
+and nurture these skills.

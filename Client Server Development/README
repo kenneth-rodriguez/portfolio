@@ -1,0 +1,29 @@
+Ken Rodriguez
+Professor Alam
+CS-340: Client Server Development
+
+Journal
+- How do you write programs that are maintainable, readable, and adaptable?
+    To best write scalable programs, I try to work out what's most simple and useful, then build on that. In OOP languages such as Python, for example,
+  it's easy to build a "generic" function with a memorable name (such as Read in the Python script included here), then build on it with child classes
+  or the like. By keeping ideas general and consistent with the rest of the product's needs, it's easy to reuse them for multiple purposes such as 
+  testing how a PyMongo script works to query with a generic Read function or how a user interface could show users data with that same Read function.
+  Similarly, CRUD functions factor well into this; in many applications handling data, the ability to create, read, update, and delete entries can be
+  useful in a myriad of situations.
+
+- How do you approach a problem as a computer scientist?
+    When possible, I find it most helpful to compare my own work to existing examples, such as those on www.w3schools.com and the MongoDB documentation.
+  Usually, this makes it easier to spot a syntax error, such as a missing semicolon or apostrophe that may be causing errors. In the event that the
+  syntax is correct, I've found it invaluable to go back and break down code step by step rather than try to do everything at once. By taking a granular
+  approach, it can become more clear where something might've gone wrong, such as a wrong increment value in a loop or an "or" statement where an "and"
+  statement would be more effective. Most importantly, of course, is patience and the will to scan through code for these issues.
+  
+- What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+    Computer scientists are effectively problem solvers who, in many cases, take long problems, then break them down into a step-by-step process to
+  solve those problems in a way that makes them easy to solve repeatedly, saving valuable resources like time and money for allocation elsewhere.
+  For a company like Grazioso Salvare, for example, a computer scientist could help them solve the problem of finding the animals most useful for 
+  the tasks at hand; rather than have a team dedicated to combing through thousands of entries to find the best dogs for a rescue team and a separate 
+  team for compiling the data the first team found into easy to digest and actionable diagrams to show the shareholders, a smaller team of computer 
+  scientists could break down the process and create a user interface that repeats the tasks of data collection processing in a fraction of the time
+  as many times as necessary.
+  

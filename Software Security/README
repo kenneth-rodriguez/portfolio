@@ -1,0 +1,66 @@
+Ken Rodriguez
+Professor Conlan
+CS-305: Software Security
+
+Reflection
+
+- Briefly summarize your client, Artemis Financial, and their software requirements.
+  Who was the client? What issue did they want you to address?
+  
+    The client was a company called Artemis Financial that deals with customers' financial data, handling a variety 
+of different financial plans for customers, such as savings accounts, retirement, and insurance. Given this focus on
+sensitive data, the client requested that a foundation for customer security be set to ensure their web interface
+complies with security standards. Specifically, they asked that an algorithm cipher be identified and implemented to
+meet their needs, a self-signed security certificate be implemented, and that the software is properly tested and secure.
+
+
+- What did you do very well when you found your client’s software security vulnerabilities? 
+  Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+    
+    I feel that I implemented the chosen algorithm cipher very well. The cipher chosen, SHA-256, offers a good balance of
+security and speed, and its implementation simple to understand and graceful to boot. Implementing software security properly
+is important to a company in that it builds customer trust and in turn, provides a more desirable product to those customers.
+Ensuring proper security practices is also very important to ensure the organization meets local regulations regarding that
+customer data. Value, value, value.
+
+
+- What part of the vulnerability assessment was challenging or helpful to you?
+    
+    I find that as a result of studying SHA algorithms, I have a better understanding of the encryption process as a whole.
+As computers continue to get more powerful, encryption is probably going to become an even bigger part of software moving
+forward; even moreso as automation and AI continue to grow.
+
+
+- How did you increase layers of security? In the future, what would you use to assess vulnerabilities 
+  and decide which mitigation techniques to use?
+    
+    To encrease the application's security, in addition to adding algorithm ciphers and utilizing OWASP dependency checks,
+secure programming practices were implemented such as encapsulation and properly commenting code. This ensures that the
+data being observed for this practice (a simple string) remain unmodifiable, providing greater security in that the string
+is harder to tamper with. In the future, this course provided a pretty helpful security workflow diagram that provides a
+pretty thorough approach to the "sec" portion of devsecops. Hitting the books also wouldn't hurt much.
+
+
+- How did you make certain the code and software application were functional and secure? 
+  After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
+ 
+    To identify security flaws in the software, a visual inspection is a useful first step. Is inputted information being
+checked to ensure the data being passed through isn't an injection attack attempt? Is this software adhering to object 
+oriented practices? Taking a look at the code (if it's properly formatted and still fairly easy to read) can show a lot of
+what's going on that could cause security problems down the road. For everything that can't be seen visually, however,
+using dependency checks (such as the OWASP check used in this assignment) can quickly provide information as to whether
+the dependencies included in the software are up-to-date. Updated dependencies can contribute greatly to better software
+security, so these tools are invaluable.
+
+- What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
+    
+    As stated a bit earlier, dependency checks and external libraries can streamline the security process greatly and
+implementing simple things like input checks and OOP principles can contribute greatly to successful security practices.
+
+
+- Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, 
+  and experience. What might you show future employers from this assignment?
+  
+    From this assignment, I would consider flaunting my newfound knowledge of cipher algorithms and their implementation.
+As stated earlier, I see cryptography becoming more and more important as computers continue to grow more powerful, so
+this information will be a point of continued study in my own life.    

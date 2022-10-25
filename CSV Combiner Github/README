@@ -7,6 +7,6 @@ finals), I feel like the script in its current state provides a good foundation 
 software development lifecycle.
 
 Commands can be executed as such:
-./csv-combiner.py ./fixtures/[CSV HERE]
+./csv-combiner.py ./fixtures/[CSV HERE][...]
 and the application should readily handle as many CSVs as you can throw at it. Ideally. As per instructions, unit tests are
 included, thank you for your time, and I hope you have a great day!

@@ -1,0 +1,12 @@
+Ken Rodriguez
+CSV Combiner Script for PMG
+
+As part of the PMG interview process, I was tasked with writing a command line script that was capable of combining multiple
+CSV files into a single CSV document with the original filenames tacked on to the end. Somewhat pressed for time (gotta love
+finals), I feel like the script in its current state provides a good foundation that would lend itself to the ever-iterative
+software development lifecycle.
+
+Commands can be executed as such:
+./csv-combiner.py ./fixtures/[CSV HERE]
+and the application should readily handle as many CSVs as you can throw at it. Ideally. As per instructions, unit tests are
+included, thank you for your time, and I hope you have a great day!

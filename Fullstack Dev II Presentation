@@ -1,0 +1,8 @@
+Fullstack Dev II Presentation
+
+https://www.youtube.com/watch?v=v2wXSfiqUg8
+
+This is a brief presentation written for the class Full Stack Development II, focusing on how cloud computing can be used in
+in tandem with full-stack development to create complex and scalable applications. This presentation focused primarily on the
+Amazon AWS platform, using technologies S3, API Gateway, and Lambda with IAM implementation to create a web interface that 
+securely executes commands using a web API.
